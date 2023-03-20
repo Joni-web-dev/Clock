@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anek+Bangla:wght@100;200;400&family=Lato:wght@300&family=Montserrat:wght@400;500;700&family=Noto+Sans+JP:wght@300;400;500&family=Noto+Sans+Symbols+2&family=Poppins:wght@300;400;500;600;700;800&family=Red+Hat+Mono&family=Roboto&display=swap');
+
+* {
+    font-family:  Arial, sans-serif;
+    font-weight: 200;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+}
+
+#clock {
+    color: #ffffff;
+    font-size: 144px;
+    font-weight: 300;
+    text-shadow: 15px 10px 13px  rgba(22, 138, 216, 0.499);
+}
